@@ -3,6 +3,9 @@
 - **Html and Css💻**
 - **Js⚙**
 - **Frameworks🎫**
+- **Php👨‍💻**
+- **Python🐍**
+- **Ruby🟥(probably❔)**
 ##### *And so on*...
 ------------
 I already know **Python**. In this programming language, I wrote my best project: [Gosha voice assistant](https://github.com/Dmitry0802/Gosha-Voice-Assistant "Gosha voice assistant")
