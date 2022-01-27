@@ -22,7 +22,7 @@ I already know **Python**. In this programming language, I wrote my best project
 <p>
 
 <p align='center'>
-   <a href="https://www.codewars.com/users/Dmitry0802/badges/large">
+   <a href="https://www.codewars.com/users/Dmitry0802">
        <img style="width:110px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s---NE41B9C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/1b667wj1eh8ji0d2g652.png"/>
    </a>
 <p>
