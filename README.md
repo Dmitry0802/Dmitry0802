@@ -1,14 +1,41 @@
-# Hi👋, I'M Dmitry Kovalenko
-###### I am a beginner Full Stack developer. I teach:
-- **Html and Css💻**
-- **Js⚙**
-- **Frameworks🎫**
-- **Php👨‍💻**
-- **Python🐍**
-- **Ruby🟥(probably❔)**
-##### *And so on*...
-------------
-I already know **Python**. In this programming language, I wrote my best project: [Gosha voice assistant](https://github.com/Dmitry0802/Gosha-Voice-Assistant "Gosha voice assistant")
+<img src="https://i.ibb.co/WHYRJxN/angryimg-1.png" alt="gradient">
+
+# Hi👋, I'm HlopchatoBumazniy ( or XDK8 )
+
+<div align="center">
+	<h3> About me </h3>
+</div>
+
+> ### I'm a programmer. :)
+
+#### Favorite language:  **❤JavaScript❤**
+
+#### I also program on:
+
+- #### Python 🐍
+- #### C# 🎮
+- #### Wiring (arduino) 💻
+
+---
+
+<div align="center">
+	<h3> My projects </h3>
+</div>
+
+### Projects: 
+
+- #### [Gosha Web Assistant](https://github.com/Dmitry0802/Gosha-Web-Assistant)
+  Gosha is a voice assistant right in your browser. Can execute various commands, just ask him.
+- #### [Flappy Bird Adaptation](https://github.com/Dmitry0802/Flappy-Bird-Adaptation)
+  A simple Pygame game. A parody of Flappy Bird.
+- #### [Spichka Clicker Game](https://github.com/Dmitry0802/Spichka-Clicker-Game)
+  A simple clicker made on Cordova.
+
+---
+
+<div align="center">
+	<h3> Statistics </h3>
+</div>
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Dmitry0802&show_icons=true&count_private=true"><img
@@ -18,15 +45,12 @@ I already know **Python**. In this programming language, I wrote my best project
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry0802&layout=compact"/></a>
 </p>
 
-<p align='center'>
-   <a href="https://t.me/Bhju_0802">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-<p>
+---
 
-<p align='center'>
-   <a href="https://www.codewars.com/users/Dmitry0802">
-       <img style="width:110px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s---NE41B9C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/1b667wj1eh8ji0d2g652.png"/>
-   </a>
-<p>
-   
+<div align="center">
+	<h3> Links </h3>
+</div>
+
+> #### My site: https://xdk8.netlify.app/
+> #### Itch Io: https://itch.io/
+> #### Email: hello.a.xdk8@gmail.com
